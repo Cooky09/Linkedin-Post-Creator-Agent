@@ -90,7 +90,7 @@
       "name": "Update a document1",
       "credentials": {
         "googleDocsOAuth2Api": {
-          "id": "80Xrlg8GQ6YVUKnN",
+          "id": "",
           "name": "Google Docs account"
         }
       }
@@ -110,14 +110,14 @@
       "name": "Get a document",
       "credentials": {
         "googleDocsOAuth2Api": {
-          "id": "80Xrlg8GQ6YVUKnN",
+          "id": "",
           "name": "Google Docs account"
         }
       }
     },
     {
       "parameters": {
-        "sendTo": "mahua7980@gmail.com",
+        "sendTo": "",
         "subject": "Today's LinkedIn Post",
         "emailType": "text",
         "message": "={{ $json.output.final_post }}",
@@ -134,7 +134,7 @@
       "webhookId": "5a32f8af-5b7d-4860-a02d-5465c0a77daf",
       "credentials": {
         "gmailOAuth2": {
-          "id": "5pMO2WyNgEW43pFy",
+          "id": "",
           "name": "Gmail account"
         }
       }
@@ -165,7 +165,7 @@
       "name": "Ollama Chat Model",
       "credentials": {
         "ollamaApi": {
-          "id": "7iLuqsXgm9PMf8yb",
+          "id": "",
           "name": "Ollama account"
         }
       }
