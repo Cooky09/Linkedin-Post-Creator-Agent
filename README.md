@@ -35,7 +35,17 @@ Quality Critic Agent
       ▼
 Email Delivery
 ```
+## Workflow Overview
 
+screenshots/screenshotsworkflow-overview.png
+
+## Multi-Agent Architecture
+
+screenshots/screenshotsmulti-agent-architecture.png
+
+## Sample Output
+
+screenshots/screenshotgenerated-post.png
 ## AI Agents
 
 ### Content Strategist Agent
