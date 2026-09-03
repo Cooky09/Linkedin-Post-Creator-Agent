@@ -37,15 +37,15 @@ Email Delivery
 ```
 ## Workflow Overview
 
-screenshots/screenshotsworkflow-overview.png
+[![Workflow Overview](verview.png](screenshots/screenshotsworkflow-overview.png)
 
 ## Multi-Agent Architecture
 
-screenshots/screenshotsmulti-agent-architecture.png
+[![Architecture](verview.png](screenshots/screenshotsmulti-agent-architecture.png)
 
 ## Sample Output
 
-screenshots/screenshotgenerated-post.png
+[![Sample Overview](verview.png](screenshots/screenshotgenerated-post.png)
 ## AI Agents
 
 ### Content Strategist Agent
